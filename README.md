@@ -33,3 +33,5 @@ This repository includes `LaTeX` templates for different document types. The fol
 8. Finally update the environment as follows:
 
    <pre>tlmgr update --self --all --reinstall-forcibly-removed</pre>
+
+*Adapted from the [Toolbox Workshop](https://toolbox.pep-dortmund.org/install/linux/).*
