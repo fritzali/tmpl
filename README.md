@@ -1,5 +1,11 @@
 ## Templates
 
+#### Cloning
+
+<pre>git clone https://fritzali:<i>PAT</i>@github.com/fritzali/tmpl.git templates</pre>
+
+#### Installation
+
 This repository includes `LaTeX` templates for different document types. The following briefly describes how to obtain a current `TeXLive` installation:
 
 1. Make sure that `git` as well as the `make` and `curl` utilities are present on the system and enable `libxcrypt` compatibility for `glibc` library:
